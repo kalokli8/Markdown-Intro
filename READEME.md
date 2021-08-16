@@ -10,9 +10,9 @@
 
 ## What is it used for?
 
-*Readme Files (Github, etc)
-*Forum & Blog Posts
-\*Used In Many Static Site Generators
+- Readme Files (Github, etc)
+- Forum & Blog Posts
+- Used In Many Static Site Generators
 
 # Heading 1
 
