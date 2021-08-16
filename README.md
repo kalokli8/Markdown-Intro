@@ -1,6 +1,6 @@
 <!-- Headings -->
 
-# This is a introduction of Markdown
+# This is an introduction of Markdown
 
 ## What is Markdown?
 
